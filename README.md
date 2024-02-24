@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=muinitalp&color=grey">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/213674749035937793.png"/>
+  <img src="[https://discord.c99.nl/widget/theme-4/213674749035937793.png](https://discord.c99.nl/widget/theme-5/535247985710333973.png)"/>
 </p>
 <p align="center">
 Private creator of Discord bot
