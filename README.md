@@ -12,4 +12,4 @@
 <p align="center">
 Private creator of Discord bot
 <p align="center">
-    <a href="https://discord.gg/sXAFMJVy3R">Discord Server</a>
+    <a href="https://discord.gg/tmXMDUf8nk">Discord Server</a>
