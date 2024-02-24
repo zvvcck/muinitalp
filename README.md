@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://cdn.discordapp.com/attachments/1091471907825655830/1091474710744793118/ScornfulEnormousHectorsdolphin-size_restricted.gif">
+<img src="[https://cdn.discordapp.com/attachments/1091471907825655830/1091474710744793118/ScornfulEnormousHectorsdolphin-size_restricted.gif](https://cdn.discordapp.com/attachments/1210857040054980678/1210857087370788874/pokemon-pixel-art.gif?ex=65ec158a&is=65d9a08a&hm=5b9c3f1aabbeff26deba395aa844694084103ec9a16dc2bdfb82b63780648cb1&)">
 </p>
 <p align="center">
     muinitalp
