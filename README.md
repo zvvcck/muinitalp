@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://cdn.discordapp.com/attachments/1210857040054980678/1210857087370788874/pokemon-pixel-art.gif?ex=65ec158a&is=65d9a08a&hm=5b9c3f1aabbeff26deba395aa844694084103ec9a16dc2bdfb82b63780648cb1&">
+<img src="https://cdn.discordapp.com/attachments/1210857040054980678/1210857607082811433/tumblr_n46mbwBDaH1scncwdo1_500.gif?ex=65ec1606&is=65d9a106&hm=437211bda5090fb79bd940d682d9851c0944544816e78c49a4a3cca317c98fec&">
 </p>
 <p align="center">
     muinitalp
