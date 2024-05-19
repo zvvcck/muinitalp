@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://i.ibb.co/FmqB4nc/D984706d0393a75276d06644e19b9196-ezgif-com-gif-maker">
+<img src="">
 </p>
 <p align="center">
     zvck
